@@ -11,23 +11,23 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
-➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-➥ Language: Python 𝟹
-➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
-➥ Build Status: v2.0.1 [ Beta ]"""
+    ABOUT_TXT = """<b>⫸ 𝐌𝐲 𝐍𝐚𝐦𝐞: {}
+⫸ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: <a href='https://t.me/zautekm'>Zaute Km</a>
+⫸ 𝐋𝐢𝐛𝐫𝐚𝐫𝐲: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
+⫸ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Python 𝟹
+⫸ 𝐃𝐚𝐭𝐚 𝐁𝐚𝐬𝐞: <a href='https://www.mongodb.com/'>MongoDB</a>
+⫸ 𝐁𝐨𝐭 𝐒𝐞𝐫𝐯𝐞𝐫: <a href='https://heroku.com'>Heroku</a>
+⫸ 𝐁𝐮𝐢𝐥𝐝 𝐒𝐭𝐚𝐭𝐮𝐬: v2.0.1 [ Beta ]"""
 
-    SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+    SOURCE_TXT = """<b>𝐒𝐨𝐮𝐫𝐜𝐞:</b>
+𝐈𝐌𝐃𝐛 𝐢𝐬 𝐚 𝐎𝐩𝐞𝐧 𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭.
+𝐒𝐨𝐮𝐫𝐜𝐞: <a href='https://github.com/PMPriyankaMohan/tgmoviebot'>GitHub - Click here 👈</a>
 
-<b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+<b>𝐃𝐞𝐯🤴:</b>
+- <a href='https://t.me/Sanoob_Achu_18'>𝐒𝐚𝐧𝐨𝐨𝐛 𝐀𝐜𝐡𝐮 ⚡️</a>
 
-<b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+<b>𝐌𝐨𝐯𝐢𝐞 𝐆𝐫𝐨𝐮𝐩 ✨️</b>
+- <a href='https://t.me/MvMovies_Villa'>𝐌𝐨𝐯𝐢𝐞𝐬 𝐕𝐢𝐥𝐥𝐚 ✨️</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -54,7 +54,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/MvMovies_Villa)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
