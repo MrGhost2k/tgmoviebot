@@ -101,7 +101,7 @@ async def start(client, message):
             InlineKeyboardButton('𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ⚒️', url='https://t.me/ddrabit'),
             InlineKeyboardButton('🤴 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫', url='https://t.me/Sanoob_Achu_18')
             ],[
-            InlineKeyboardButton('❌️ 𝐂𝐥𝐨𝐬𝐞 𝐓𝐡𝐞 𝐌𝐞𝐧𝐮 ❌️'', callback_data='close_data')
+            InlineKeyboardButton('❌️ 𝐂𝐥𝐨𝐬𝐞 𝐓𝐡𝐞 𝐌𝐞𝐧𝐮 ❌️', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
