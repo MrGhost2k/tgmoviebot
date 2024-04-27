@@ -12,7 +12,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 <b>Here Is The Help For My Commands.</b>"""
 
     ABOUT_TXT = """<b>⫸ 𝐌𝐲 𝐍𝐚𝐦𝐞: {}
-⫸ 𝐂𝐫𝐞𝐝𝐢𝐭𝐬: <a href='https://t.me/BlinderTG'>𝐁𝐥𝐢𝐧𝐝𝐞𝐫𝐓𝐆 ⚡️</a>
+⫸ 𝐂𝐫𝐞𝐝𝐢𝐭𝐬: <a href='https://t.me/MrStarkTg'>𝐁𝐥𝐢𝐧𝐝𝐞𝐫𝐓𝐆 ⚡️</a>
 ⫸ 𝐋𝐢𝐛𝐫𝐚𝐫𝐲: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ⫸ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Python 𝟹
 ⫸ 𝐃𝐚𝐭𝐚 𝐁𝐚𝐬𝐞: <a href='https://www.mongodb.com/'>MongoDB</a>
